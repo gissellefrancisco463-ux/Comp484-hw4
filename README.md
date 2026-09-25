@@ -1,9 +1,9 @@
-# HW3 Links
+# HW4
 
-Creating HTML links for page navigation, external websites, and internal page sections.
+Practice using appropriate HTML list types to organize navigation, timelines, doctypes, and terms semantically.
 
 ## 🚀 Live Demo
 
 You can view the published website here:
-[Live Website on GitHub Pages](https://gissellefrancisco463-ux.github.io/Comp484-hw3/)
+[Live Website on GitHub Pages](https://gissellefrancisco463-ux.github.io/Comp484-hw4/)
 
